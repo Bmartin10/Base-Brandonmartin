@@ -53,8 +53,7 @@ Onshape is awesome.  I found it really helpful to rename all my sketches.  It is
 
 
 ### Image  
-![the Mount] (Images./themount.jpg) 
-
+![the Mount] (Images./themount.jpg.png)    
 ### Reflection 
 This took awhile to figure out, but I figured it out! 
 it's kinda fun to figure out what you can do on this site and onshape
