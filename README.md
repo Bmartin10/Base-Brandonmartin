@@ -68,7 +68,7 @@ it's kinda fun to figure out what you can do on this site and onshape
 ### Evidence https://cvilleschools.onshape.com/documents/f64e45cb06078b420594b944/w/d4856a8b43ea97c38dd1cd29/e/311f848cb26b22b354487ef3
 
 
-### Image
+### Image<img src="/Images/Fork.png" alt="The Fork" width="200">
 
 ### Reflection
 This peice was easy to do, I did have some issues though. 
