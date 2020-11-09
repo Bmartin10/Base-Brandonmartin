@@ -47,9 +47,10 @@ Onshape is awesome.  I found it really helpful to rename all my sketches.  It is
 
 ## Mount
 
-### Description The mount for class
+### Description 
+The mount for class
 
-### Evidence  https://cvilleschools.onshape.com/documents/f64e45cb06078b420594b944/w/d4856a8b43ea97c38dd1cd29/e/0182da7ac16cb3adbcb94880
+### Evidence [The Mount in Onshape](https://cvilleschools.onshape.com/documents/f64e45cb06078b420594b944/w/d4856a8b43ea97c38dd1cd29/e/0182da7ac16cb3adbcb94880)
 
 
 ### Image
@@ -63,9 +64,10 @@ it's kinda fun to figure out what you can do on this site and onshape
 
 ## Fork
 
-### Description This is the Fork for the castor 
+### Description 
+This is the Fork for the castor 
 
-### Evidence https://cvilleschools.onshape.com/documents/f64e45cb06078b420594b944/w/d4856a8b43ea97c38dd1cd29/e/311f848cb26b22b354487ef3
+### Evidence [The Mount in Onshape](https://cvilleschools.onshape.com/documents/f64e45cb06078b420594b944/w/d4856a8b43ea97c38dd1cd29/e/311f848cb26b22b354487ef3)
 
 
 ### Image<img src="/Images/Fork.png" alt="The Fork" width="200">
@@ -77,13 +79,14 @@ This peice was easy to do, I did have some issues though.
 
 ## Tire
 
-### Description
+### Description 
+Tire for castor, for Engineering 1
+### Evidence [The Tire in Onshape](https://cvilleschools.onshape.com/documents/f64e45cb06078b420594b944/w/d4856a8b43ea97c38dd1cd29/e/26b21cfdc2c94e54190966df)
 
-### Evidence
+### Image 
 
-### Image
-
-### Reflection
+### Reflection 
+The tire was really easy! It's different than the rest of the parts In the castor.
 
 ---
 
