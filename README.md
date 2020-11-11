@@ -94,7 +94,7 @@ The tire was really easy! It's different than the rest of the parts In the casto
 ## Wheel
 
 ### Description
-Wheel for Castorm, In Engineering 1
+Wheel for Castor In Engineering 1
 ### Evidence
 [The Wheel in Onshape](https://cvilleschools.onshape.com/documents/f64e45cb06078b420594b944/w/d4856a8b43ea97c38dd1cd29/e/5370bdec4c81142737f33b2d)
 ### Image
