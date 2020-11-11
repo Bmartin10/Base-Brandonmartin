@@ -84,7 +84,7 @@ Tire for castor, for Engineering 1
 ### Evidence [The Tire in Onshape](https://cvilleschools.onshape.com/documents/f64e45cb06078b420594b944/w/d4856a8b43ea97c38dd1cd29/e/26b21cfdc2c94e54190966df)
 
 ### Image 
-
+<img src="https://github.com/Bmartin10/BasicCAD/blob/master/Screenshot%202020-11-11%20at%201.19.42%20PM.png" alt="Tire" width="200">
 ### Reflection 
 The tire was really easy! It's different than the rest of the parts In the castor.
 
